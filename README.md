@@ -4,8 +4,14 @@
 </p>
 
 <p align="center">
+    <a href="https://opensource.org/licenses/MIT"><img src="./assets/kittenLogo.png"></a>
+</p>
+
+<p align="center">
     <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
 </p>
+
+
 **React Native demo using Kitten UI** 
 
 ## Table of Contents
