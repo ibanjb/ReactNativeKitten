@@ -2,7 +2,7 @@
   "expo": {
     "name": "Kitten Tricks",
     "slug": "kitten-tricks",
-    "githubUrl": "https://github.com/akveo/kittenTricks",
+    "githubUrl": "https://github.com/ibanjb/ReactNativeKitten",
     "sdkVersion": "24.0.0",
     "icon": "./icon.png",
     "orientation": "portrait",
@@ -13,14 +13,14 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "bundleIdentifier": "com.akveo.kittentricks",
-      "buildNumber": "1.0.10",
+      "bundleIdentifier": "com.balasch.kitten",
+      "buildNumber": "1.0.0",
       "supportsTablet": true
     },
     "android": {
-      "package": "com.akveo.kittentricks",
+      "package": "com.balasch.kitten",
       "versionCode": 16
     },
-    "version": "1.0.10"
+    "version": "1.0.0"
   }
 }
